@@ -1,7 +1,7 @@
 # ITG Light UI Theme
 
 Port of the [theme-itg-flat](https://github.com/itsthatguy/theme-itg-flat) Sublime Text theme to Atom.
-All credti goes to [@itsthatguy](https://github.com/itsthatguy)
+All credit goes to [@itsthatguy](https://github.com/itsthatguy)
 
 ![screenshot](http://i.imgur.com/VaNk8GP.png)
 
