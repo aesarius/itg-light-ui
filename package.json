@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "description": "Port of the theme-itg-flat for ST https://github.com/itsthatguy/theme-itg-flat to Atom",
   "license": "MIT",
-  "repository": "",
+  "repository": "https://github.com/aesarius/itg-light-ui",
   "engines": {
     "atom": ">0.50.0"
   }
